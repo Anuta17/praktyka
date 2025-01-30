@@ -1,0 +1,278 @@
+.footer {
+  height: 489px;
+  position: relative;
+  width: 1600px;
+}
+
+.footer .overlap {
+  background-color: #1c1e53;
+  height: 397px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.footer .overlap-group {
+  height: 206px;
+  left: 159px;
+  position: absolute;
+  top: 96px;
+  width: 1065px;
+}
+
+.footer .content {
+  height: 206px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1064px;
+}
+
+.footer .social-media-icon {
+  height: 16px;
+  left: 659px;
+  position: absolute;
+  top: 190px;
+  width: 144px;
+}
+
+.footer .text-wrapper {
+  color: var(--grey);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 659px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.8;
+  position: absolute;
+  top: 78px;
+  width: 399px;
+}
+
+.footer .div {
+  color: var(--white);
+  font-family: var(--label-2-font-family);
+  font-size: var(--label-2-font-size);
+  font-style: var(--label-2-font-style);
+  font-weight: var(--label-2-font-weight);
+  left: 0;
+  letter-spacing: var(--label-2-letter-spacing);
+  line-height: var(--label-2-line-height);
+  opacity: 0.8;
+  position: absolute;
+  top: 64px;
+  width: 399px;
+}
+
+.footer .text-wrapper-2 {
+  color: #ffffff;
+  font-family: var(--heading-2-font-family);
+  font-size: var(--heading-2-font-size);
+  font-style: var(--heading-2-font-style);
+  font-weight: var(--heading-2-font-weight);
+  left: 658px;
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  position: absolute;
+  top: 0;
+  width: 333px;
+}
+
+.footer .logo {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 160px;
+}
+
+.footer .contact-info {
+  background-color: var(--yellow);
+  height: 95px;
+  left: 160px;
+  position: absolute;
+  top: 302px;
+  width: 517px;
+}
+
+.footer .info {
+  height: 62px;
+  left: 37px;
+  position: relative;
+  top: 17px;
+  width: 351px;
+}
+
+.footer .text-wrapper-3 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.8;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-4 {
+  color: var(--dark-blue);
+  font-family: var(--label-01-font-family);
+  font-size: var(--label-01-font-size);
+  font-style: var(--label-01-font-style);
+  font-weight: var(--label-01-font-weight);
+  left: 0;
+  letter-spacing: var(--label-01-letter-spacing);
+  line-height: var(--label-01-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-5 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 210px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.8;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-6 {
+  color: var(--dark-blue);
+  font-family: var(--label-01-font-family);
+  font-size: var(--label-01-font-size);
+  font-style: var(--label-01-font-style);
+  font-weight: var(--label-01-font-weight);
+  left: 210px;
+  letter-spacing: var(--label-01-letter-spacing);
+  line-height: var(--label-01-line-height);
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.footer .footer-links {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 397px;
+  width: 1614px;
+}
+
+.footer .overlap-group-2 {
+  background-color: var(--white);
+  height: 92px;
+  position: relative;
+  width: 1600px;
+}
+
+.footer .copyright {
+  color: var(--dark-blue);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 160px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-7 {
+  color: var(--dark-blue);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 968px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-8 {
+  color: var(--dark-blue);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1048px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-9 {
+  color: var(--dark-blue);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1152px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-10 {
+  color: var(--dark-blue);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1254px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-11 {
+  color: var(--dark-blue);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1341px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.footer .text-wrapper-12 {
+  color: var(--dark-blue);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1405px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}

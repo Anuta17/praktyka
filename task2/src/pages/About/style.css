@@ -1,0 +1,909 @@
+.about-us {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-us .div-2 {
+  background-color: #ffffff;
+  height: 5027px;
+  overflow: hidden;
+  position: relative;
+  width: 1600px;
+}
+
+.about-us .footer-instance {
+  background-color: transparent !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 4538px !important;
+}
+
+.about-us .our-team {
+  height: 712px;
+  left: 0;
+  position: absolute;
+  top: 3826px;
+  width: 1602px;
+}
+
+.about-us .overlap-2 {
+  background-color: var(--grey);
+  height: 712px;
+  position: relative;
+  width: 1600px;
+}
+
+.about-us .cards {
+  height: 344px;
+  left: 161px;
+  position: absolute;
+  top: 240px;
+  width: 1280px;
+}
+
+.about-us .card {
+  height: 344px;
+  left: 656px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .overlap-group-3 {
+  background-color: #ffffff;
+  height: 344px;
+  position: relative;
+  width: 296px;
+}
+
+.about-us .https-www-pexels-com {
+  height: 168px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 168px;
+}
+
+.about-us .text-wrapper-21 {
+  color: var(--b);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 84px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 284px;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.about-us .text-wrapper-22 {
+  color: var(--b);
+  font-family: var(--heading-6-font-family);
+  font-size: var(--heading-6-font-size);
+  font-style: var(--heading-6-font-style);
+  font-weight: var(--heading-6-font-weight);
+  left: 83px;
+  letter-spacing: var(--heading-6-letter-spacing);
+  line-height: var(--heading-6-line-height);
+  position: absolute;
+  top: 246px;
+  white-space: nowrap;
+}
+
+.about-us .overlap-wrapper {
+  height: 344px;
+  left: 328px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .text-wrapper-23 {
+  color: var(--b);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 131px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 282px;
+  white-space: nowrap;
+}
+
+.about-us .text-wrapper-24 {
+  color: var(--b);
+  font-family: var(--heading-6-font-family);
+  font-size: var(--heading-6-font-size);
+  font-style: var(--heading-6-font-style);
+  font-weight: var(--heading-6-font-weight);
+  left: 44px;
+  letter-spacing: var(--heading-6-letter-spacing);
+  line-height: var(--heading-6-line-height);
+  position: absolute;
+  text-align: center;
+  top: 246px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.about-us .overlap-group-wrapper {
+  height: 344px;
+  left: 984px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .text-wrapper-25 {
+  color: var(--b);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 73px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 284px;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.about-us .text-wrapper-26 {
+  color: var(--b);
+  font-family: var(--heading-6-font-family);
+  font-size: var(--heading-6-font-size);
+  font-style: var(--heading-6-font-style);
+  font-weight: var(--heading-6-font-weight);
+  left: 76px;
+  letter-spacing: var(--heading-6-letter-spacing);
+  line-height: var(--heading-6-line-height);
+  position: absolute;
+  text-align: center;
+  top: 246px;
+  white-space: nowrap;
+}
+
+.about-us .card-hover {
+  height: 344px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 296px;
+}
+
+.about-us .overlap-3 {
+  height: 344px;
+  position: relative;
+  width: 300px;
+}
+
+.about-us .card-2 {
+  height: 344px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .text-wrapper-27 {
+  color: var(--b);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 131px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 284px;
+  white-space: nowrap;
+}
+
+.about-us .ellipse {
+  background: linear-gradient(
+    180deg,
+    rgb(82.4, 57.22, 249.69) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-radius: 84px;
+  height: 168px;
+  left: 64px;
+  position: absolute;
+  top: 48px;
+  width: 168px;
+}
+
+.about-us .socials {
+  height: 13px;
+  left: 119px;
+  position: absolute;
+  top: 175px;
+  width: 62px;
+}
+
+.about-us .text-wrapper-28 {
+  color: var(--dark-blue);
+  font-family: var(--heading-2-font-family);
+  font-size: var(--heading-2-font-size);
+  font-style: var(--heading-2-font-style);
+  font-weight: var(--heading-2-font-weight);
+  left: 616px;
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  position: absolute;
+  text-align: center;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.about-us .benefits {
+  height: 624px;
+  left: 160px;
+  position: absolute;
+  top: 3074px;
+  width: 1282px;
+}
+
+.about-us .p {
+  color: var(--dark-blue);
+  font-family: var(--heading-2-font-family);
+  font-size: var(--heading-2-font-size);
+  font-style: var(--heading-2-font-style);
+  font-weight: var(--heading-2-font-weight);
+  left: 323px;
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 630px;
+}
+
+.about-us .logo-section {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 540px;
+  width: 1280px;
+}
+
+.about-us .logo-wrapper {
+  height: 32px;
+  left: 265px;
+  position: absolute;
+  top: 28px;
+  width: 1015px;
+}
+
+.about-us .logo-number {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.about-us .group {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.about-us .text-wrapper-29 {
+  color: var(--dark-blue);
+  font-family: var(--heading-3-font-family);
+  font-size: var(--heading-3-font-size);
+  font-style: var(--heading-3-font-style);
+  font-weight: var(--heading-3-font-weight);
+  left: 0;
+  letter-spacing: var(--heading-3-letter-spacing);
+  line-height: var(--heading-3-line-height);
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.about-us .text-wrapper-30 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 56px;
+  width: 124px;
+}
+
+.about-us .card-3 {
+  background-color: var(--grey);
+  height: 316px;
+  left: 875px;
+  position: absolute;
+  top: 176px;
+  width: 405px;
+}
+
+.about-us .point-text {
+  height: 160px;
+  left: 48px;
+  position: absolute;
+  top: 108px;
+  width: 329px;
+}
+
+.about-us .text-wrapper-31 {
+  color: var(--dark-blue);
+  font-family: var(--heading-6-font-family);
+  font-size: var(--heading-6-font-size);
+  font-style: var(--heading-6-font-style);
+  font-weight: var(--heading-6-font-weight);
+  left: 0;
+  letter-spacing: var(--heading-6-letter-spacing);
+  line-height: var(--heading-6-line-height);
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.about-us .text-wrapper-32 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 48px;
+  width: 325px;
+}
+
+.about-us .icon {
+  height: 28px;
+  left: 48px;
+  position: absolute;
+  top: 52px;
+  width: 32px;
+}
+
+.about-us .card-4 {
+  height: 316px;
+  left: 437px;
+  position: absolute;
+  top: 176px;
+  width: 410px;
+}
+
+.about-us .overlap-group-4 {
+  background-color: var(--grey);
+  height: 316px;
+  position: relative;
+  width: 406px;
+}
+
+.about-us .text-wrapper-33 {
+  color: var(--dark-blue);
+  font-family: var(--heading-6-font-family);
+  font-size: var(--heading-6-font-size);
+  font-style: var(--heading-6-font-style);
+  font-weight: var(--heading-6-font-weight);
+  left: 48px;
+  letter-spacing: var(--heading-6-letter-spacing);
+  line-height: var(--heading-6-line-height);
+  position: absolute;
+  top: 108px;
+  width: 315px;
+}
+
+.about-us .text-wrapper-34 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 48px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 156px;
+  width: 325px;
+}
+
+.about-us .icon-2 {
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 50px;
+  width: 32px;
+}
+
+.about-us .card-5 {
+  height: 316px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 409px;
+}
+
+.about-us .overlap-4 {
+  background-color: var(--grey);
+  height: 316px;
+  position: relative;
+  width: 405px;
+}
+
+.about-us .text-wrapper-35 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 48px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 156px;
+  width: 324px;
+}
+
+.about-us .our-mission-and-our {
+  background-color: var(--accent);
+  height: 1022px;
+  left: 0;
+  position: absolute;
+  top: 1924px;
+  width: 1599px;
+}
+
+.about-us .overlap-5 {
+  background-color: var(--accent);
+  height: 1022px;
+  position: relative;
+}
+
+.about-us .our-vision {
+  height: 336px;
+  left: 160px;
+  position: absolute;
+  top: 128px;
+  width: 1278px;
+}
+
+.about-us .https-www-pexels-com-2 {
+  height: 336px;
+  left: 763px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 515px;
+}
+
+.about-us .content-2 {
+  height: 228px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 629px;
+}
+
+.about-us .text-wrapper-36 {
+  color: var(--dark-blue);
+  font-family: var(--label-2-font-family);
+  font-size: var(--label-2-font-size);
+  font-style: var(--label-2-font-style);
+  font-weight: var(--label-2-font-weight);
+  left: 0;
+  letter-spacing: var(--label-2-letter-spacing);
+  line-height: var(--label-2-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about-us .text-wrapper-37 {
+  color: var(--dark-blue);
+  font-family: var(--heading-3-font-family);
+  font-size: var(--heading-3-font-size);
+  font-style: var(--heading-3-font-style);
+  font-weight: var(--heading-3-font-weight);
+  left: 0;
+  letter-spacing: var(--heading-3-letter-spacing);
+  line-height: var(--heading-3-line-height);
+  position: absolute;
+  top: 44px;
+  width: 623px;
+}
+
+.about-us .text-wrapper-38 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 116px;
+  width: 623px;
+}
+
+.about-us .our-mission {
+  height: 334px;
+  left: 160px;
+  position: absolute;
+  top: 560px;
+  width: 1280px;
+}
+
+.about-us .https-www-pexels-com-3 {
+  height: 334px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 514px;
+}
+
+.about-us .content-3 {
+  height: 228px;
+  left: 631px;
+  position: absolute;
+  top: 53px;
+  width: 655px;
+}
+
+.about-us .text-wrapper-39 {
+  color: var(--dark-blue);
+  font-family: var(--label-2-font-family);
+  font-size: var(--label-2-font-size);
+  font-style: var(--label-2-font-style);
+  font-weight: var(--label-2-font-weight);
+  left: 0;
+  letter-spacing: var(--label-2-letter-spacing);
+  line-height: var(--label-2-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about-us .text-wrapper-40 {
+  color: var(--dark-blue);
+  font-family: var(--heading-3-font-family);
+  font-size: var(--heading-3-font-size);
+  font-style: var(--heading-3-font-style);
+  font-weight: var(--heading-3-font-weight);
+  left: 26px;
+  letter-spacing: var(--heading-3-letter-spacing);
+  line-height: var(--heading-3-line-height);
+  position: absolute;
+  top: 44px;
+  width: 623px;
+}
+
+.about-us .text-wrapper-41 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 26px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 116px;
+  width: 623px;
+}
+
+.about-us .process {
+  height: 268px;
+  left: 160px;
+  position: absolute;
+  top: 1528px;
+  width: 1282px;
+}
+
+.about-us .cards-2 {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 1280px;
+}
+
+.about-us .card-6 {
+  height: 156px;
+  left: 328px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .line-and-icon {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.about-us .circle {
+  background-color: var(--royal-blue);
+  border-radius: 12px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.about-us .line-indicator {
+  height: 2px;
+  left: 48px;
+  position: absolute;
+  top: 10px;
+  width: 224px;
+}
+
+.about-us .heading {
+  color: var(--dark-blue);
+  font-family: var(--heading-6-font-family);
+  font-size: var(--heading-6-font-size);
+  font-style: var(--heading-6-font-style);
+  font-weight: var(--heading-6-font-weight);
+  left: 0;
+  letter-spacing: var(--heading-6-letter-spacing);
+  line-height: var(--heading-6-line-height);
+  position: absolute;
+  top: 56px;
+  width: 296px;
+}
+
+.about-us .description {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 100px;
+  width: 272px;
+}
+
+.about-us .card-7 {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .card-8 {
+  height: 156px;
+  left: 656px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .card-9 {
+  height: 156px;
+  left: 984px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.about-us .section-title {
+  color: var(--dark-blue);
+  font-family: var(--heading-2-font-family);
+  font-size: var(--heading-2-font-size);
+  font-style: var(--heading-2-font-style);
+  font-weight: var(--heading-2-font-weight);
+  left: 381px;
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about-us .who-we-are {
+  height: 716px;
+  left: 160px;
+  position: absolute;
+  top: 684px;
+  width: 1280px;
+}
+
+.about-us .who-we-are-wrapper {
+  background-color: #f4f4f5;
+  height: 376px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.about-us .who-we-are-2 {
+  height: 216px;
+  left: 79px;
+  position: relative;
+  top: 80px;
+  width: 1102px;
+}
+
+.about-us .text-wrapper-42 {
+  color: var(--dark-blue);
+  font-family: var(--heading-3-font-family);
+  font-size: var(--heading-3-font-size);
+  font-style: var(--heading-3-font-style);
+  font-weight: var(--heading-3-font-weight);
+  left: 1px;
+  letter-spacing: var(--heading-3-letter-spacing);
+  line-height: var(--heading-3-line-height);
+  position: absolute;
+  top: 32px;
+  width: 515px;
+}
+
+.about-us .text-wrapper-43 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 1px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 104px;
+  width: 515px;
+}
+
+.about-us .text-wrapper-44 {
+  color: var(--dark-blue);
+  font-family: var(--heading-3-font-family);
+  font-size: var(--heading-3-font-size);
+  font-style: var(--heading-3-font-style);
+  font-weight: var(--heading-3-font-weight);
+  left: 577px;
+  letter-spacing: var(--heading-3-letter-spacing);
+  line-height: var(--heading-3-line-height);
+  position: absolute;
+  top: 32px;
+  width: 515px;
+}
+
+.about-us .text-wrapper-45 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 577px;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  top: 104px;
+  width: 515px;
+}
+
+.about-us .https-www-pexels-com-4 {
+  height: 340px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 376px;
+  width: 1280px;
+}
+
+.about-us .about-us-hero {
+  height: 336px;
+  left: 160px;
+  position: absolute;
+  top: 220px;
+  width: 1280px;
+}
+
+.about-us .https-www-pexels-com-5 {
+  height: 336px;
+  left: 733px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 547px;
+}
+
+.about-us .content-4 {
+  height: 303px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 601px;
+}
+
+.about-us .text-wrapper-46 {
+  color: var(--dark-blue);
+  font-family: var(--label-01-font-family);
+  font-size: var(--label-01-font-size);
+  font-style: var(--label-01-font-style);
+  font-weight: var(--label-01-font-weight);
+  left: 0;
+  letter-spacing: var(--label-01-letter-spacing);
+  line-height: var(--label-01-line-height);
+  position: absolute;
+  top: 0;
+  width: 419px;
+}
+
+.about-us .text-wrapper-47 {
+  color: var(--dark-blue);
+  font-family: var(--heading-1-font-family);
+  font-size: var(--heading-1-font-size);
+  font-style: var(--heading-1-font-style);
+  font-weight: var(--heading-1-font-weight);
+  left: 0;
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  position: absolute;
+  top: 40px;
+  width: 595px;
+}
+
+.about-us .text-wrapper-48 {
+  color: var(--dark-blue);
+  font-family: var(--body-1-font-family);
+  font-size: var(--body-1-font-size);
+  font-style: var(--body-1-font-style);
+  font-weight: var(--body-1-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-letter-spacing);
+  line-height: var(--body-1-line-height);
+  opacity: 0.7;
+  position: absolute;
+  text-align: justify;
+  top: 219px;
+  width: 484px;
+}
+
+.about-us .navbar-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}

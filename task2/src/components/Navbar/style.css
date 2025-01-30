@@ -1,0 +1,137 @@
+.navbar {
+  background-color: #1c1e53;
+  height: 92px;
+  position: relative;
+  width: 1600px;
+}
+
+.navbar .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 60px;
+  left: 1255px;
+  position: absolute;
+  top: 16px;
+  width: 187px;
+}
+
+.navbar .div-wrapper {
+  border: 2px solid;
+  border-color: #f4f6fc33;
+  border-radius: 41px;
+  height: 60px;
+  position: relative;
+  width: 185px;
+}
+
+.navbar .text-wrapper-13 {
+  color: var(--white);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 46px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 14px;
+  width: 89px;
+}
+
+.navbar .text-wrapper-14 {
+  color: var(--white);
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 734px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.navbar .text-wrapper-15 {
+  color: #bbbbcb;
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 814px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.navbar .text-wrapper-16 {
+  color: #bbbbcb;
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 918px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.navbar .text-wrapper-17 {
+  color: #bbbbcb;
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1020px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.navbar .text-wrapper-18 {
+  color: #bbbbcb;
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1107px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.navbar .text-wrapper-19 {
+  color: #bbbbcb;
+  font-family: var(--body-2-font-family);
+  font-size: var(--body-2-font-size);
+  font-style: var(--body-2-font-style);
+  font-weight: var(--body-2-font-weight);
+  left: 1171px;
+  letter-spacing: var(--body-2-letter-spacing);
+  line-height: var(--body-2-line-height);
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.navbar .img {
+  height: 25px;
+  left: 160px;
+  position: absolute;
+  top: 33px;
+  width: 122px;
+}

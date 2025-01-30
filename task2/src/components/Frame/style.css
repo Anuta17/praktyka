@@ -1,0 +1,24 @@
+.frame {
+  align-items: center;
+  background-color: #fbd980;
+  border-radius: 41px;
+  display: flex;
+  gap: 10px;
+  height: 64px;
+  justify-content: center;
+  padding: 15px 51px;
+  position: relative;
+  width: 218px;
+}
+
+.frame .get-started {
+  color: #1a1b2a;
+  font-family: 'Manrope', Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
